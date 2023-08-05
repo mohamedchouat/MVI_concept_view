@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVI concept view</string>
+    <string name="ready">Ready !</string>
+</resources>
